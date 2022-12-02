@@ -1,0 +1,55 @@
+.navbar{
+    background-color: #2096ba;
+}
+
+.navbar-brand {
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 1px ;   
+    color: #EBECED;
+}
+
+.navbar-nav {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px ;
+}
+
+.nav-link {
+    color: #EBECED;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #EDFAFD;
+}
+
+.display-4 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.row {
+    font-family: 'Russo One', sans-serif;
+}
+
+.lead {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.1rem;
+}
+
+.col-md-4 {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.1rem;
+}
+
+.hello {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1rem;
+}
+
+.profile{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.4rem;
+}
+
+#blog {
+    background-color: #EDFAFD;
+}
